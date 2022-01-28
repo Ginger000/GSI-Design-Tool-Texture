@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GSI-Design-Tool-Texture/static/css/main.e6c13ad2.css",
+    "main.js": "/GSI-Design-Tool-Texture/static/js/main.27247f8e.js",
+    "static/js/787.616f3119.chunk.js": "/GSI-Design-Tool-Texture/static/js/787.616f3119.chunk.js",
+    "index.html": "/GSI-Design-Tool-Texture/index.html",
+    "main.e6c13ad2.css.map": "/GSI-Design-Tool-Texture/static/css/main.e6c13ad2.css.map",
+    "main.27247f8e.js.map": "/GSI-Design-Tool-Texture/static/js/main.27247f8e.js.map",
+    "787.616f3119.chunk.js.map": "/GSI-Design-Tool-Texture/static/js/787.616f3119.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.27247f8e.js"
+  ]
+}
