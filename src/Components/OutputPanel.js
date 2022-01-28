@@ -286,13 +286,14 @@ const OutputPanel = ({initialDepth, initialRatio, surface, scenarios, handleSetF
             4, Everytime you adjust the ratio or depth, the maximum design storm you could reach to would also be changed. This tool would <Alert sx={{display:"inline-flex", pt:0, pb:0}} variant="outlined" severity="info"> give you the recommended range of possible design storm</Alert>.
             <br />
             5, The 3d geometric visualiation sould help out intuitively understand the changes and relations among site, soil, and surface. The animations shows how the impemeable hard pavement is supposed to be depaved first and then the GSI is add.
-            And you and zoom in/out or rotate the geometry by your mouse. Press mouse left button to rotate, press mouse right button to move.
             <br />
-            6, Go to the THEORY tab to learn about the scientific research behind this tool
+            6, And you can zoom in/out or rotate the geometry by your mouse. Press mouse left button to rotate, press mouse right button to move.
             <br />
-            7, Go to the CONSOLE tab to take a look at the lab experiment data that fits your current input site conditions and fits your generated GSI prototype
+            7, Go to the THEORY tab to learn about the scientific research behind this tool
             <br />
-            8, You could skip playing with the generated prototypes, and get all sorted GSI prototypes that fits your input immediately.
+            8, Go to the CONSOLE tab to take a look at the lab experiment data that fits your current input site conditions and fits your generated GSI prototype
+            <br />
+            9, You could skip playing with the generated prototypes, and get all sorted GSI prototypes that fits your input immediately.
           </TabPanel>
           <TabPanel value={value} index={1}>
             1, What is reliability curve?
